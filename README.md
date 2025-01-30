@@ -1,7 +1,9 @@
-## Welcome to my GitHub!
-### 👨🏽‍💻 @AMortalWith
+<div align="center"> 
+ <h1>Hello, I'm Andy <br> Welcome to my GitHub!</h1>
+ 
+ <p>I'm currently working towards my CCNA and also learning cybersecurity on TryHackMe, focusing on networking and penetration testing.</p>
 
-I'm currently working towards my CCNA and also learning cybersecurity on TryHackMe, focusing on networking and penetration testing. <br> This GitHub serves as a central repository for the tools I use, scripts I develop, and knowledge I gain throughout my journey.
+ <p>This GitHub serves as a central repository for the tools I use, scripts I develop, and knowledge I gain throughout my journey.</p>
 
  <ul>
   Skills & Interests:
@@ -15,8 +17,7 @@ I'm currently working towards my CCNA and also learning cybersecurity on TryHack
   <li>📘 CCNA (Cisco Certified Network Associate) - In Progress</li>
  </ul>
 
-<br>
+<hr>
 
-[](url)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/amortalwith.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/amortalwith.png"  alt="Your Image Badge" />
+</div>
