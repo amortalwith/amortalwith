@@ -1,5 +1,9 @@
 <div align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Andy;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=40&duration=3500&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Hello%2C+I'm+Andy;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+
+<br/>
 
 <a href=https://tryhackme.com/p/amortalwith><img src="https://tryhackme-badges.s3.amazonaws.com/amortalwith.png" alt="Your Image Badge" /><a/>
  
