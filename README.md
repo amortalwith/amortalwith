@@ -1,7 +1,7 @@
 <div align="center"> 
  <h1>Hello, I'm Andy <br> Welcome to my GitHub!</h1>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/amortalwith.png" alt="Your Image Badge" />
+<a link=https://tryhackme.com/p/amortalwith><img src="https://tryhackme-badges.s3.amazonaws.com/amortalwith.png" alt="Your Image Badge" /><a/>
  
  <p>I'm currently working towards my PT1 certification also learning cybersecurity on TryHackMe & Hack The Box, focusing on networking and penetration testing.</p>
 
