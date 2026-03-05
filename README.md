@@ -4,9 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Andy%2C;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-
-
-<br/>
  
  <p>I'm currently working towards my PT1 certification also learning cybersecurity on TryHackMe & Hack The Box, focusing on networking and penetration testing.</p>
 
