@@ -1,12 +1,7 @@
 <div align="center"> 
  <h1>Hello, I'm Andy <br> Welcome to my GitHub!</h1>
 
-<iframe
-    src="[https://github-iframe.vercel.app/ileathan/hubot-mubot/src/mubot.coffee](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1527121)"
-    width="100%" height="400px"
-    title="ileathan/hubot-mubot/src/mubot.coffee"
-    style='border:none;
-></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/amortalwith.png" alt="Your Image Badge" />
  
  <p>I'm currently working towards my PT1 certification also learning cybersecurity on TryHackMe & Hack The Box, focusing on networking and penetration testing.</p>
 
