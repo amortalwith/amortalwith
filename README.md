@@ -1,8 +1,9 @@
 <div align="center"> 
 
-<a href=https://tryhackme.com/p/amortalwith><img src="https://tryhackme.com/badge/t/17197ed4c708506b33770fa3c25942daedc40c3ee329b943d8e28b5299c397f2b50909badfc5c18a3a7e078bfddf9111?theme=dark" alt="THM Profile Badge" /></a>
+<a href=https://tryhackme.com/p/amortalwith><img src="https://cdn-images.tryhackme.com/public-profile/amortalwith/badge-dark-79a9a862771d.png" width="400"> alt="THM Profile Badge" /></a>
 
-<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Andy%2C;Welcome+to+my+GitHub!](https://cdn-images.tryhackme.com/public-profile/amortalwith/badge-dark-79a9a862771d.png)" alt="THM Badge" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Andy%2C;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+
  
  <p>I'm currently working towards my PT1 certification also learning cybersecurity on TryHackMe & Hack The Box, focusing on networking and penetration testing.</p>
 
