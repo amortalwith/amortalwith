@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<a href=https://tryhackme.com/p/amortalwith><img src="https://tryhackme-badges.s3.amazonaws.com/amortalwith.png" alt="THM Profile Badge" /></a>
+<script src="https://tryhackme.com/badge/t/17197ed4c708506b33770fa3c25942daedc40c3ee329b943d8e28b5299c397f2b50909badfc5c18a3a7e078bfddf9111?theme=dark"></script>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Andy%2C;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
